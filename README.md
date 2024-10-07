@@ -1,6 +1,16 @@
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=GMZPrWuguDg)
+
+[![Watch This!](https://img.youtube.com/vi/GMZPrWuguDg/0.jpg)](https://www.youtube.com/watch?v=GMZPrWuguDg)
+
+
+
 # Project Laika 🌍
 
 **Project Laika** is an interactive, AI-driven web application developed for NASA's Space Apps Challenge 2024. Designed under the **"Tell Us a Climate Story"** challenge, this application uses real-time data to tell engaging and fictionalized climate stories about various regions on Earth. Users can explore an interactive Earth model, click on a region, and reveal a story inspired by climate data, illustrating the impact of climate change on the flora, fauna, and environment in that area.
+
+![Screencap1](https://github.com/user-attachments/assets/dd593ae3-ee16-43c5-8904-296e38ac967c)
+![Screencap2](https://github.com/user-attachments/assets/3e796ef0-c56f-4f36-ae68-49068972622e)
 
 ## 🌟 Features
 
