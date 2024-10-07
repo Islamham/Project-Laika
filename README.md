@@ -1,7 +1,7 @@
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=GMZPrWuguDg)
 
-[![Watch This!](https://img.youtube.com/vi/GMZPrWuguDg/0.jpg)](https://www.youtube.com/watch?v=GMZPrWuguDg)
+[![Watch This!](https://img.youtube.com/vi/GMZPrWuguDg/1.jpg)](https://www.youtube.com/watch?v=GMZPrWuguDg)
 
 
 
